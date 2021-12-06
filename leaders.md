@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Mantas Sasnauskas](mailto:mantas.sasnauskas@owasp.org)
+* [Sarunas Grigaliunas](mailto:sarunas.grigaliunas@owasp.org)
